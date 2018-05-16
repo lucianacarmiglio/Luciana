@@ -86,29 +86,7 @@ public class Main {
             out.println("9.- Listar registros");
             out.println("10.- Salir");
 
-
-
-
-
-
-do {
-            out.println("MEN\u00DA");
-            out.println("1.- Altas");
-            out.println("2.- Consultas");
-            out.println("3.- Actualizaciones");
-            out.println("4.- Bajas");
-            out.println("5.- Ordenar registros");
-            out.println("6.- Listar registros");
-            out.println("7.- Salir");
-
-
-
-
-
-
-
-
-
+ }
             do {
                 opcion = leer_entero ("Seleccione una opci\u00F3n");
                 if(opcion<1 || opcion>7)
